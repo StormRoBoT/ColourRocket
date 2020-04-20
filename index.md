@@ -6,18 +6,7 @@ This simple game will test your mind and physical respond
 
 ### Screen Shot below:
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StormRoBoT/ColourRocket/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://ibb.co/Q6HDpqw"><img src="https://i.ibb.co/gDW4mXK/Simulator-Screen-Shot-i-Phone-8-Plus-2020-04-20-at-16-58-09.png" alt="Simulator-Screen-Shot-i-Phone-8-Plus-2020-04-20-at-16-58-09" border="0"></a>
+<a href="https://ibb.co/NNjSy1x"><img src="https://i.ibb.co/Wzyt2Dn/Simulator-Screen-Shot-i-Phone-8-Plus-2020-04-20-at-16-58-15.png" alt="Simulator-Screen-Shot-i-Phone-8-Plus-2020-04-20-at-16-58-15" border="0"></a>
+<a href="https://ibb.co/N7bKYFB"><img src="https://i.ibb.co/Trdthw3/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-04-20-at-17-02-27.png" alt="Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-04-20-at-17-02-27" border="0"></a>
+<a href="https://ibb.co/yWWCx6J"><img src="https://i.ibb.co/9ss0dbj/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-04-20-at-17-02-31.png" alt="Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-04-20-at-17-02-31" border="0"></a>
